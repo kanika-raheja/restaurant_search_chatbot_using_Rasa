@@ -1,0 +1,1048 @@
+## intent:affirm
+- yes
+- y
+- Y
+- Yes
+- yep
+- yeah
+- indeed
+- that's right
+- ok
+- great
+- right, thank you
+- correct
+- great choice
+- sounds really good
+- thanks
+- Thanks
+- cool
+- cool, thanks
+- yes. Please
+- OK
+- yeah, send it
+- okay. thanks
+- yes please
+
+## intent:goodbye
+- bye
+- goodbye
+- good bye
+- stop
+- end
+- farewell
+- Bye bye
+- have a good one
+- thanks. bye
+
+## intent:greet
+- hey
+- howdy
+- hey there
+- hello
+- hola
+- hi
+- good morning
+- good afternoon
+- good evening
+- dear sir
+- Heyyy
+- Hey!
+- HEY
+- Hola
+- Hi
+- Hello!
+- heyy
+
+## intent:deny
+- No
+- n
+- N
+- No, thanks
+- no, thank you
+- not now
+- Nope
+- Not required
+- Nah
+- I don't need it
+- no
+- no. thanks
+- no thansk
+- nope
+- No. I'm good
+
+## intent:restaurant_search
+- i'm looking for a place to eat
+- I want to grab lunch
+- I am searching for a dinner spot
+- I am looking for some restaurants in [Delhi](location).
+- I am looking for some restaurants in [Bangalore](location)
+- show me [chinese](cuisine) restaurants
+- show me [chines]{"entity": "cuisine", "value": "chinese"} restaurants in the [New Delhi]{"entity": "location", "value": "Delhi"}
+- show me a [mexican](cuisine) place in the [centre](location)
+- i am looking for an [indian](cuisine) spot called olaolaolaolaolaola
+- search for restaurants
+- anywhere in the [west](location)
+- I am looking for [asian fusion](cuisine) food
+- I am looking a restaurant in [294328](location)
+- in [Gurgaon](location)
+- [South Indian](cuisine)
+- [North Indian](cuisine)
+- [Italian](cuisine)
+- [Chinese]{"entity": "cuisine", "value": "chinese"}
+- [chinese](cuisine)
+- [Lithuania](location)
+- Oh, sorry, in [Italy](location)
+- in [delhi](location)
+- I am looking for some restaurants in [Mumbai](location)
+- I am looking for [mexican indian fusion](cuisine)
+- can you book a table in [rome](location) in a [moderate]{"entity": "price", "value": "mid"} price range with [british](cuisine) food for [four]{"entity": "people", "value": "4"} people
+- [central](location) [indian](cuisine) restaurant
+- please help me to find restaurants in [pune](location)
+- Please find me a restaurantin [bangalore](location)
+- [mumbai](location)
+- show me restaurants
+- please find me [chinese](cuisine) restaurant in [delhi](location)
+- can you find me a [chinese](cuisine) restaurant
+- [delhi](location)
+- please find me a restaurant in [ahmedabad](location)
+- please show me a few [italian](cuisine) restaurants in [bangalore](location)
+- can you find me a [chinese](cuisine) reataurant
+- find me a south [indian](cuisine) restaurant
+- find me a [chinese](cuisine) restaurant
+- find me a restaurant
+- [Delhi](location)
+- [low](price)
+- [mid](price)
+- [high](price)
+- [Mexican](cuisine) food in [Bangalore](location)
+- find me a restaurant in [delhi](location)
+- [kanpur](location)
+- [pune](location)
+- [American](cuisine)
+- [american](cuisine)
+- [Mexican](cuisine)
+- [mexican](cuisine)
+- [mmerican](cuisine)
+- [Adilabad](location)
+- [Agra](location)
+- [Ahmedabad](location)
+- [Ahmednagar](location)
+- [Aizawl](location)
+- [Ajitgarh](location)
+- [Ajmer](location)
+- [Akola](location)
+- [Alappuzha](location)
+- [Aligarh](location)
+- [Alirajpur](location)
+- [Allahabad](location)
+- [Almora](location)
+- [Alwar](location)
+- [Ambala](location)
+- [Ambedkar Nagar](location)
+- [Amravati](location)
+- [Amreli district](location)
+- [Amritsar](location)
+- [Anand](location)
+- [Anantapur](location)
+- [Anantnag](location)
+- [Angul](location)
+- [Anjaw](location)
+- [Anuppur](location)
+- [Araria](location)
+- [Ariyalur](location)
+- [Arwal](location)
+- [Ashok Nagar](location)
+- [Auraiya](location)
+- [Aurangabad](location)
+- [Azamgarh](location)
+- [Badgam](location)
+- [Bagalkot](location)
+- [Bageshwar](location)
+- [Bagpat](location)
+- [Bahraich](location)
+- [Baksa](location)
+- [Balaghat](location)
+- [Balangir](location)
+- [Balasore](location)
+- [Ballia](location)
+- [Balrampur](location)
+- [Banaskantha](location)
+- [Banda](location)
+- [Bandipora](location)
+- [Bangalore Rural](location)
+- [Bangalore Urban](location)
+- [Banka](location)
+- [Bankura](location)
+- [Banswara](location)
+- [Barabanki](location)
+- [Baramulla](location)
+- [Baran](location)
+- [Bardhaman](location)
+- [Bareilly](location)
+- [Bargarh](location)
+- [Barmer](location)
+- [Barnala](location)
+- [Barpeta](location)
+- [Barwani](location)
+- [Bastar](location)
+- [Basti](location)
+- [Bathinda](location)
+- [Beed](location)
+- [Begusarai](location)
+- [Belgaum](location)
+- [Bellary](location)
+- [Betul](location)
+- [Bhadrak](location)
+- [Bhagalpur](location)
+- [Bhandara](location)
+- [Bharatpur](location)
+- [Bharuch](location)
+- [Bhavnagar](location)
+- [Bhilwara](location)
+- [Bhind](location)
+- [Bhiwani](location)
+- [Bhojpur](location)
+- [Bhopal](location)
+- [Bidar](location)
+- [Bijapur](location)
+- [Bijnor](location)
+- [Bikaner](location)
+- [Bilaspur](location)
+- [Birbhum](location)
+- [Bishnupur](location)
+- [Bokaro](location)
+- [Bongaigaon](location)
+- [Boudh](location)
+- [Budaun](location)
+- [Bulandshahr](location)
+- [Buldhana](location)
+- [Bundi](location)
+- [Burhanpur](location)
+- [Buxar](location)
+- [Cachar](location)
+- [Chamarajnagar](location)
+- [Chamba](location)
+- [Chamoli](location)
+- [Champawat](location)
+- [Champhai](location)
+- [Chandauli](location)
+- [Chandel](location)
+- [Chandigarh](location)
+- [Chandrapur](location)
+- [Changlang](location)
+- [Chatra](location)
+- [Chennai](location)
+- [Chhatarpur](location)
+- [Chhindwara](location)
+- [Chikkaballapur](location)
+- [Chikkamagaluru](location)
+- [Chirang](location)
+- [Chitradurga](location)
+- [Chitrakoot](location)
+- [Chittoor](location)
+- [Chittorgarh](location)
+- [Churachandpur](location)
+- [Churu](location)
+- [Coimbatore](location)
+- [Cooch Behar](location)
+- [Cuddalore](location)
+- [Cuttack](location)
+- [Dadra and Nagar Haveli](location)
+- [Dahod](location)
+- [Dakshin Dinajpur](location)
+- [Dakshina Kannada](location)
+- [Daman](location)
+- [Damoh](location)
+- [Dantewada](location)
+- [Darbhanga](location)
+- [Darjeeling](location)
+- [Darrang](location)
+- [Datia](location)
+- [Dausa](location)
+- [Davanagere](location)
+- [Debagarh](location)
+- [Deogarh](location)
+- [Dehradun](location)
+- [Deoghar](location)
+- [Deoria](location)
+- [Dewas](location)
+- [Dhalai](location)
+- [Dhamtari](location)
+- [Dhanbad](location)
+- [Dhar](location)
+- [Dharmapuri](location)
+- [Dharwad](location)
+- [Dhemaji](location)
+- [Dhenkanal](location)
+- [Dholpur](location)
+- [Dhubri](location)
+- [Dhule](location)
+- [Dibang Valley](location)
+- [Dibrugarh](location)
+- [Dima Hasao](location)
+- [Dimapur](location)
+- [Dindigul](location)
+- [Dindori](location)
+- [Diu](location)
+- [Doda](location)
+- [Dumka](location)
+- [Dungapur](location)
+- [Durg](location)
+- [Eluru](location)
+- [Ernakulam](location)
+- [Erode](location)
+- [Etah](location)
+- [Etawah](location)
+- [Faizabad](location)
+- [Faridabad](location)
+- [Faridkot](location)
+- [Farrukhabad](location)
+- [Fatehabad](location)
+- [Fatehgarh Sahib](location)
+- [Fatehpur](location)
+- [Fazilka](location)
+- [Firozabad](location)
+- [Firozpur](location)
+- [Gadag](location)
+- [Gadchiroli](location)
+- [Gajapati](location)
+- [Ganderbal](location)
+- [Gandhinagar](location)
+- [Ganganagar](location)
+- [Ganjam](location)
+- [Garhwa](location)
+- [Gautam Buddh Nagar](location)
+- [Gaya](location)
+- [Ghaziabad](location)
+- [Ghazipur](location)
+- [Giridih](location)
+- [Goalpara](location)
+- [Godda](location)
+- [Golaghat](location)
+- [Gonda](location)
+- [Gondia](location)
+- [Gopalganj](location)
+- [Gorakhpur](location)
+- [Gulbarga](location)
+- [Gumla](location)
+- [Guna](location)
+- [Guntur](location)
+- [Gurdaspur](location)
+- [Gurgaon](location)
+- [Gwalior](location)
+- [Hailakandi](location)
+- [Hamirpur](location)
+- [Hanumangarh](location)
+- [Harda](location)
+- [Hardoi](location)
+- [Haridwar](location)
+- [Hassan](location)
+- [Haveri district](location)
+- [Hazaribag](location)
+- [Hingoli](location)
+- [Hissar](location)
+- [Hooghly](location)
+- [Hoshangabad](location)
+- [Hoshiarpur](location)
+- [Howrah](location)
+- [Hyderabad](location)
+- [Idukki](location)
+- [Imphal East](location)
+- [Imphal West](location)
+- [Indore](location)
+- [Jabalpur](location)
+- [Jagatsinghpur](location)
+- [Jaintia Hills](location)
+- [Jaipur](location)
+- [Jaisalmer](location)
+- [Jajpur](location)
+- [Jalandhar](location)
+- [Jalaun](location)
+- [Jalgaon](location)
+- [Jalna](location)
+- [Jalore](location)
+- [Jalpaiguri](location)
+- [Jammu](location)
+- [Jamnagar](location)
+- [Jamtara](location)
+- [Jamui](location)
+- [Janjgir-Champa](location)
+- [Jashpur](location)
+- [Jaunpur district](location)
+- [Jehanabad](location)
+- [Jhabua](location)
+- [Jhajjar](location)
+- [Jhalawar](location)
+- [Jhansi](location)
+- [Jharsuguda](location)
+- [Jhunjhunu](location)
+- [Jind](location)
+- [Jodhpur](location)
+- [Jorhat](location)
+- [Junagadh](location)
+- [Jyotiba Phule Nagar](location)
+- [Kabirdham](location)
+- [Kawardha](location)
+- [Kadapa](location)
+- [Kaimur](location)
+- [Kaithal](location)
+- [Kakinada](location)
+- [Kalahandi](location)
+- [Kamrup](location)
+- [Kanchipuram](location)
+- [Kandhamal](location)
+- [Kangra](location)
+- [Kanker](location)
+- [Kannauj](location)
+- [Kannur](location)
+- [Kanpur](location)
+- [Kanshi Ram Nagar](location)
+- [Kanyakumari](location)
+- [Kapurthala](location)
+- [Karaikal](location)
+- [Karauli](location)
+- [Karbi Anglong](location)
+- [Kargil](location)
+- [Karimganj](location)
+- [Karimnagar](location)
+- [Karnal](location)
+- [Karur](location)
+- [Kasaragod](location)
+- [Kathua](location)
+- [Katihar](location)
+- [Katni](location)
+- [Kaushambi](location)
+- [Kendrapara](location)
+- [Kendujhar](location)
+- [Keonjhar](location)
+- [Khagaria](location)
+- [Khammam](location)
+- [Khandwa](location)
+- [Khargone](location)
+- [Kheda](location)
+- [Khordha](location)
+- [Khowai](location)
+- [Khunti](location)
+- [Kinnaur](location)
+- [Kishanganj](location)
+- [Kishtwar](location)
+- [Kodagu](location)
+- [Koderma](location)
+- [Kohima](location)
+- [Kokrajhar](location)
+- [Kolar](location)
+- [Kolasib](location)
+- [Kolhapur](location)
+- [Kolkata](location)
+- [Kollam](location)
+- [Koppal](location)
+- [Koraput](location)
+- [Korba](location)
+- [Koriya](location)
+- [Kota](location)
+- [Kottayam](location)
+- [Kozhikode](location)
+- [Krishna](location)
+- [Kulgam](location)
+- [Kullu](location)
+- [Kupwara](location)
+- [Kurnool](location)
+- [Kurukshetra](location)
+- [Kurung Kumey](location)
+- [Kushinagar](location)
+- [Kutch](location)
+- [Lahaul and Spiti](location)
+- [Lakhimpur](location)
+- [Lakhimpur Kheri](location)
+- [Lakhisarai](location)
+- [Lalitpur](location)
+- [Latehar](location)
+- [Latur](location)
+- [Lawngtlai](location)
+- [Leh](location)
+- [Lohardaga](location)
+- [Lohit](location)
+- [Lower Dibang Valley](location)
+- [Lower Subansiri](location)
+- [Lucknow](location)
+- [Ludhiana](location)
+- [Lunglei](location)
+- [Madhepura](location)
+- [Madhubani](location)
+- [Madurai](location)
+- [Mahamaya Nagar](location)
+- [Maharajganj](location)
+- [Mahasamund](location)
+- [Mahbubnagar](location)
+- [Mahe](location)
+- [Mahendragarh](location)
+- [Mahoba](location)
+- [Mainpuri](location)
+- [Malappuram](location)
+- [Maldah](location)
+- [Malkangiri](location)
+- [Mamit](location)
+- [Mandi](location)
+- [Mandla](location)
+- [Mandsaur](location)
+- [Mandya](location)
+- [Mansa](location)
+- [Marigaon](location)
+- [Mathura](location)
+- [Mau](location)
+- [Mayurbhanj](location)
+- [Medak](location)
+- [Meerut](location)
+- [Mehsana](location)
+- [Mewat](location)
+- [Mirzapur](location)
+- [Moga](location)
+- [Mokokchung](location)
+- [Mon](location)
+- [Moradabad](location)
+- [Morena](location)
+- [Mumbai City](location)
+- [Mumbai suburban](location)
+- [Munger](location)
+- [Murshidabad](location)
+- [Muzaffarnagar](location)
+- [Muzaffarpur](location)
+- [Mysore](location)
+- [Nabarangpur](location)
+- [Nadia](location)
+- [Nagaon](location)
+- [Nagapattinam](location)
+- [Nagaur](location)
+- [Nagpur](location)
+- [Nainital](location)
+- [Nalanda](location)
+- [Nalbari](location)
+- [Nalgonda](location)
+- [Namakkal](location)
+- [Nanded](location)
+- [Nandurbar](location)
+- [Narayanpur](location)
+- [Narmada](location)
+- [Narsinghpur](location)
+- [Nashik](location)
+- [Navsari](location)
+- [Nawada](location)
+- [Nawanshahr](location)
+- [Nayagarh](location)
+- [Neemuch](location)
+- [Nellore](location)
+- [New Delhi](location)
+- [Nilgiris](location)
+- [Nizamabad](location)
+- [North 24 Parganas](location)
+- [North Delhi](location)
+- [North East Delhi](location)
+- [North Goa](location)
+- [North Sikkim](location)
+- [North Tripura](location)
+- [North West Delhi](location)
+- [Nuapada](location)
+- [Ongole](location)
+- [Osmanabad](location)
+- [Pakur](location)
+- [Palakkad](location)
+- [Palamu](location)
+- [Pali](location)
+- [Palwal](location)
+- [Panchkula](location)
+- [Panchmahal](location)
+- [Hapur](location)
+- [Panipat](location)
+- [Panna](location)
+- [Papum Pare](location)
+- [Parbhani](location)
+- [Paschim Medinipur](location)
+- [Patan](location)
+- [Pathanamthitta](location)
+- [Pathankot](location)
+- [Patiala](location)
+- [Patna](location)
+- [Pauri Garhwal](location)
+- [Perambalur](location)
+- [Phek](location)
+- [Pilibhit](location)
+- [Pithoragarh](location)
+- [Pondicherry](location)
+- [Poonch](location)
+- [Porbandar](location)
+- [Pratapgarh](location)
+- [Pudukkottai](location)
+- [Pulwama](location)
+- [Pune](location)
+- [Purba Medinipur](location)
+- [Puri](location)
+- [Purnia](location)
+- [Purulia](location)
+- [Raebareli](location)
+- [Raichur](location)
+- [Raigad](location)
+- [Raigarh](location)
+- [Raipur](location)
+- [Raisen](location)
+- [Rajauri](location)
+- [Rajgarh](location)
+- [Rajkot](location)
+- [Rajnandgaon](location)
+- [Rajsamand](location)
+- [Ramabai Nagar ](location)
+- [Ramanagara](location)
+- [Ramanathapuram](location)
+- [Ramban](location)
+- [Ramgarh](location)
+- [Rampur](location)
+- [Ranchi](location)
+- [Ratlam](location)
+- [Ratnagiri](location)
+- [Rayagada](location)
+- [Reasi](location)
+- [Rewa](location)
+- [Rewari](location)
+- [Ri Bhoi](location)
+- [Rohtak](location)
+- [Rohtas](location)
+- [Rudraprayag](location)
+- [Rupnagar](location)
+- [Sabarkantha](location)
+- [Sagar](location)
+- [Saharanpur](location)
+- [Saharsa](location)
+- [Sahibganj](location)
+- [Saiha](location)
+- [Salem](location)
+- [Samastipur](location)
+- [Samba](location)
+- [Sambalpur](location)
+- [Sangli](location)
+- [Sangrur](location)
+- [Sant Kabir Nagar](location)
+- [Sant Ravidas Nagar](location)
+- [Saran](location)
+- [Satara](location)
+- [Satna](location)
+- [Sawai Madhopur](location)
+- [Sehore](location)
+- [Senapati](location)
+- [Seoni](location)
+- [Seraikela Kharsawan](location)
+- [Serchhip](location)
+- [Shahdol](location)
+- [Shahjahanpur](location)
+- [Shajapur](location)
+- [Shamli](location)
+- [Sheikhpura](location)
+- [Sheohar](location)
+- [Sheopur](location)
+- [Shimla](location)
+- [Shimoga](location)
+- [Shivpuri](location)
+- [Shopian](location)
+- [Shravasti](location)
+- [Sibsagar](location)
+- [Siddharthnagar](location)
+- [Sidhi](location)
+- [Sikar](location)
+- [Simdega](location)
+- [Sindhudurg](location)
+- [Singrauli](location)
+- [Sirmaur](location)
+- [Sirohi](location)
+- [Sirsa](location)
+- [Sitamarhi](location)
+- [Sitapur](location)
+- [Sivaganga](location)
+- [Siwan](location)
+- [Solan](location)
+- [Solapur](location)
+- [Sonbhadra](location)
+- [Sonipat](location)
+- [Sonitpur](location)
+- [South 24 Parganas](location)
+- [South Delhi](location)
+- [South Garo Hills](location)
+- [South Goa](location)
+- [South Sikkim](location)
+- [South Tripura](location)
+- [South West Delhi](location)
+- [Sri Muktsar Sahib](location)
+- [Srikakulam](location)
+- [Srinagar](location)
+- [Subarnapur](location)
+- [Sonepur](location)
+- [Sultanpur](location)
+- [Sundergarh](location)
+- [Supaul](location)
+- [Surat](location)
+- [Surendranagar](location)
+- [Surguja](location)
+- [Tamenglong](location)
+- [Tarn Taran](location)
+- [Tawang](location)
+- [Tehri Garhwal](location)
+- [Thane](location)
+- [Thanjavur](location)
+- [The Dangs](location)
+- [Theni](location)
+- [Thiruvananthapuram](location)
+- [Thoothukudi](location)
+- [Thoubal](location)
+- [Thrissur](location)
+- [Tikamgarh](location)
+- [Tinsukia](location)
+- [Tirap](location)
+- [Tiruchirappalli](location)
+- [Tirunelveli](location)
+- [Tirupur](location)
+- [Tiruvallur](location)
+- [Tiruvannamalai](location)
+- [Tiruvarur](location)
+- [Tonk](location)
+- [Tuensang](location)
+- [Tumkur](location)
+- [Udaipur](location)
+- [Udalguri](location)
+- [Udham Singh Nagar](location)
+- [Udhampur](location)
+- [Udupi](location)
+- [Ujjain](location)
+- [Ukhrul](location)
+- [Umaria](location)
+- [Una](location)
+- [Unnao](location)
+- [Upper Siang](location)
+- [Upper Subansiri](location)
+- [Uttar Dinajpur](location)
+- [Uttara Kannada](location)
+- [Uttarkashi](location)
+- [Vadodara](location)
+- [Vaishali](location)
+- [Valsad](location)
+- [Varanasi](location)
+- [Vellore](location)
+- [Vidisha](location)
+- [Viluppuram](location)
+- [Virudhunagar](location)
+- [Visakhapatnam](location)
+- [Vizianagaram](location)
+- [Vyara](location)
+- [Warangal](location)
+- [Wardha](location)
+- [Washim](location)
+- [Wayanad](location)
+- [Wokha](location)
+- [Yadgir](location)
+- [Yamuna Nagar](location)
+- [Yanam](location)
+- [Yavatmal](location)
+- [Zunheboto](location)
+- find me restaurant in [cochin](location)
+- find me a restaurant in [mysore](location)
+- find me a restaurant in [mysuru](location) with [italian](cuisine)
+- find me a restaurant in [pondicherry](location)
+- find me restaurant in [pondi](location)
+- find me cafe in [puducherry](location)
+- [cochi](location)
+- find me a [north Indian](cuisine) cafe in [gurugram](location)
+- find me a [chinese](cuisine) cafe in [gurgaon](location)
+- find me a place to eat
+- feeling hungry find me a place to eat
+- I’m hungry. Looking out for some good restaurants
+- Can you suggest some good restaurants in [Rishikesh](location)
+- Can you suggest some good restaurants in [hyderabad](location)
+- Can you suggest some good restaurants in [hydrabad](location)
+- [delhi]{"entity": "location", "value": "Delhi"}
+- [bengaluru](location)
+- [Bengaluru](location)
+- [poona](location)
+- [chennai](location)
+- [madras](location)
+- [kolkata](location)
+- [calcutta](location)
+- find me mid price [chinese](cuisine) restaurants in [delhi]{"entity": "location", "value": "Delhi"}
+- find me [chinese](cuisine) restaurants in [bangalore]{"entity": "location", "value": "Bangalore"} in [mid](price) price range
+- find me [chinese](cuisine) restaurants in [Mumbai](location) in [mid](price) price range
+- find me [south indian](cuisine) restaurants in [bombay](location) in [mid](price) price range
+- find restaurants in [delhi]{"entity": "location", "value": "Delhi"}
+- find restaurants in [Trivandrum](location)
+- [3](freetext)
+- find me a [chinese](cuisine) restaurant in [delhi]{"entity": "location", "value": "Delhi"}
+- [600](freetext)
+- find me a [chinese](cuisine) restaurant in [bangalore]{"entity": "location", "value": "Bangalore"}
+- find me a restaurant in [delhi]{"entity": "location", "value": "Delhi"}
+- [lucknow](location)
+- i will prefer [chinese](cuisine)
+- find me a [chinese](cuisine) restaurant in [kanpur](location)
+- find me a [american](cuisine) restaurant in [Pune](location)
+- [<300](freetext)
+- [>700](freetext)
+- [greater than rs 300](freetext)
+- Im hungry. Looking out for some good [chinese](cuisine) restaurants in [chandigarh](location)
+- Im hungry. Looking out for some good restaurants
+- in [mubaim](location)
+- in [mumbai](location)
+- [bengaluru]{"entity": "location", "value": "Bangalore"}
+- Ill prefer [chines]{"entity": "cuisine", "value": "chinese"}
+- [300-700 range](freetext)
+- hi find me a [chinese](cuisine) restaurant in [Calcutta]{"entity": "location", "value": "Kolkata"}
+- [300-700 range]{"entity": "freetext", "value": "mid"}
+- find me a [american](cuisine) restaurant in [bengaluru]{"entity": "location", "value": "Bangalore"}
+- [reasonable](freetext)
+- find me a restaurant in [mumbai](location)
+- i want [chinese](cuisine)
+- find me a restaurant in [hyderabad](location)
+- find me a restaurant in [ahmedabad](location)
+- find me a [mexican](cuisine) restaurant in [kanpur](location)
+- Okay. Show me some in [Allahabad](location)
+- [>700]{"entity": "freetext", "value": "high"}
+- Can you suggest some good restaurants in [kolkata](location)
+- [4](freetext)
+- [<300]{"entity": "freetext", "value": "low"}
+- I'm hungry. Looking out for some good restaurants
+- in [Mumbai](location)
+- [seafood](freetext)
+- [450](freetext)
+- Looking out for some good [chinese](cuisine) restaurants in [chandigar]{"entity": "location", "value": "Chandigarh"}
+- find [mexican](cuisine) restaurants of [low](price) price range in [chandigarh](location)
+- fimd [thai](cuisine) restaurants in [kannur](location)
+- find [american](cuisine) restaurants in [delhi]{"entity": "location", "value": "Delhi"}
+- [300](freetext)
+- find [low](price) price [american](cuisine) restaurants
+- find me [mexican](cuisine) restaurant in [ujjain](location)
+- find [low](price) price [mexican](cuisine) restuarants in [kannur](location)
+- find [american](cuisine) restaurants in [cochin]{"entity": "location", "value": "Kochi"}
+- find [low](price) price [American](cuisine) restaurant in [kochi](location)
+- find [American](cuisine) restaurants [low](price) price in [Kochi](location)
+- find [high](price) price [American](cuisine) restaurnts in [Kochi](location)
+- i am hungry looking for some good restaurants
+- i'll prefer [american](cuisine)
+- find me a [low](price) budget [chinese](cuisine) restaurant in [bangalore]{"entity": "location", "value": "Bangalore"}
+- find me a [mid](price) budget [chinese](cuisine) restaurant in [delhi]{"entity": "location", "value": "Delhi"}
+- find me a restaurant in [bangalore]{"entity": "location", "value": "Bangalore"}
+- [thai](freetext)
+- hi find me a restaurant in [pune](location)
+- [mughlai](freetext)
+- [punjabi](freetext)
+- [spicy](freetext)
+- [indonesian](freetext)
+- [continental](freetext)
+- find me a [chinese](cuisine) restaurant in [chandigarh](location)
+- find me a [chinese](cuisine) restaurant in [chnadigarh](location)
+- ok show me in [chandigarh](location)
+- find me a [chinese](cuisine) restaurant in [benagalore](location)
+- ok show me in [bangalore]{"entity": "location", "value": "Bangalore"}
+- find me a [thai](cuisine) restaurant in [ahmedabad](location)
+- ok show me [chinese](cuisine) restaurant
+- find me a good restaurant in [mangalore](location)
+- hi please find me a good [chinese](cuisine) restaurant in [bangalore]{"entity": "location", "value": "Bangalore"} in [mid](price) budget range
+- hi find me a good [chinese](cuisine) restaurant in [bangalore]{"entity": "location", "value": "Bangalore"} in [mid](price) price range
+- hi please find me good [american](cuisine) restaurant in [delhi]{"entity": "location", "value": "Delhi"} in [mid](price) price range
+- hi please find me a [chinese](cuisine) restaurant in [lucknow](location) in [mid](price) price range
+- find a [chinese](cuisine) restaurant in [kanpur](location)
+- find me a [chinese](cuisine) restaurant in [mysore](location)
+- find me a [american](cuisine) restaurant in [hennai](location)
+- [chennai]{"entity": "location", "value": "Chennai"}
+- find me [american](cuisine) restaurant in [bangalore]{"entity": "location", "value": "Bangalore"}
+- looking for good restaurants
+- [siliguri](location)
+- [indian]{"entity": "cuisine", "value": "North Indian"}
+- [550](freetext)
+- [1](freetext)
+- [2](freetext)
+- [5](freetext)
+- [6](freetext)
+- [<= 300](freetext)
+- [Less than INR 300](freetext)
+- [lesser than rs 300](freetext)
+- [< INR 300](freetext)
+- [Lesser than Rs 300](freetext)
+- [< Rs300](freetext)
+- [Rs 300 to 700](freetext)
+- [medium](freetext)
+- [moderate](freetext)
+- [300-700](freetext)
+- [INR 300 to INR 700](freetext)
+- [INR 300 - INR 700](freetext)
+- [More than 700](freetext)
+- [greater than rs 700](freetext)
+- [more than INR 700](freetext)
+- [> INR 700](freetext)
+- [> Rs700](freetext)
+- [expensive]{"entity": "price", "value": "high"}
+- find [expensive](price) [Italian](cuisine) restaurants
+- find [expensive]{"entity": "price", "value": "high"} [chinese](cuisine) restaurants
+- show me [thai](cuisine) food places
+- in [pondi]{"entity": "location", "value": "Pondicherry"}
+- [chennm](location)
+- [American]{"entity": "cuisine", "value": "american"}
+- find me a restaurant in [chennai]{"entity": "location", "value": "Chennai"}
+- i'll prefer [arabian](cuisine)
+- [chinese](cuisine)
+- [mid](price)
+
+## intent:email_confirmation
+- yes, please send at [kanikaraheja@ymail.com](email_address)
+- yeah. send to [kraheja@gmail.com](email_address)
+- yeah. mail to [kraheja@gmail.com](email_address)
+- yes, send on email
+- yes
+- [abhilashdixitece@gmail.com](email_address)
+- yes send to [abhilashdixitece@gmail.com](email_address)
+- yes please send to [abhilashdixitece@gmail.com](email_address)
+- find me [chinese](cuisine) restaurants in [Pune](location) in [mid](price) price range and send details to [abhilashdixitece@gmail.com](email_address)
+- send at [kanikaraheja@ymail.com](email_address)
+- yes could you please send it to [abhilashdixitece@gmail.com](email_address)
+- [kanikaraheja@ymail.com](email_address)
+- yes. Please send it to [kanikaraheja@ymail.com](email_address)
+- yes. send at [kanikaraheja@ymail.com](email_address)
+- yes. please send to [abhilashdixitece@gmail.com](email_address)
+
+## synonym:4
+- four
+
+## synonym:Bangalore
+- bangalore
+- bengaluru
+- Bengaluru
+
+## synonym:Chandigarh
+- chandigar
+- chandigrh
+
+## synonym:Chennai
+- chennai
+- Madras
+- madras
+
+## synonym:Delhi
+- New Delhi
+- delhi
+- South Delhi
+- Dilli
+- Nayi Dilli
+- new delhi
+- dilli
+- nayi dilli
+
+## synonym:Gurgaon
+- Gurugram
+
+## synonym:Hyderabad
+- Hydrabad
+
+## synonym:Italian
+- Italian
+
+## synonym:Kochi
+- cochin
+- cochi
+
+## synonym:Kolkata
+- Calcutta
+
+## synonym:Mangalore
+- Mangaluru
+
+## synonym:Mumbai
+- bombay
+- Navi Mumbai
+
+## synonym:Mysore
+- Mysuru
+
+## synonym:North Indian
+- indian
+- North indian
+- north indian
+
+## synonym:Pondicherry
+- pondi
+- puducherry
+
+## synonym:Pune
+- Puna
+- poona
+
+## synonym:Restaurant
+- Restaurants
+- Cafe
+- Cafes
+- food joints
+- eating places
+- food
+
+## synonym:South Indian
+- South indian
+- south indian
+
+## synonym:Thiruvananthapuram
+- Trivandrum
+
+## synonym:Varanasi
+- Banaras
+- Benaras
+
+## synonym:american
+- American
+
+## synonym:chinese
+- chines
+- Chinese
+- Chines
+
+## synonym:high
+- >700
+- expensive
+- More than 700
+- > Rs700
+- > INR 700
+- more than rs 700
+- greater than rs 700
+- more than INR 700
+- High
+
+## synonym:low
+- <300
+- Lesser than Rs 300
+- < Rs300
+- < INR 300
+- less than rs 300
+- lesser than rs 300
+- Less than 300
+- Less than INR 300
+- Low
+
+## synonym:mexican
+- Mexican
+
+## synonym:mid
+- moderate
+- 300-700 range
+- med
+- medium
+- Rs 300 to 700
+- 300-700
+- 300 to 700
+- INR 300 to 700
+- INR 300 - INR 700
+- INR 300 to INR 700
+- in range of 300 to 700
+
+## synonym:vegetarian
+- veggie
+- vegg
+
+## regex:email_address
+- ^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$
+
+## regex:freetext
+- \b\\w+|\\d+$\b
+
+## regex:greet
+- hey[^\s]*
+
+## regex:pincode
+- [0-9]{6}
