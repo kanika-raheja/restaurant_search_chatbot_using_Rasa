@@ -1,0 +1,105 @@
+actions:
+- action_check_budget
+- action_check_cuisine
+- action_check_location
+- action_search_restaurants
+- action_send_mail
+- action_slot_reset
+- utter_anything_else
+- utter_ask_cuisine
+- utter_ask_email_address
+- utter_ask_email_send
+- utter_ask_howcanhelp
+- utter_ask_location
+- utter_ask_price
+- utter_default
+- utter_goodbye
+- utter_greet
+- utter_sent_email
+- utter_wrong_budget
+- utter_wrong_cuisine
+- utter_wrong_location
+entities:
+- cuisine
+- email_address
+- freetext
+- location
+- price
+- search_results
+intents:
+- greet
+- restaurant_search
+- deny
+- affirm
+- email_confirmation
+- goodbye
+- stop
+responses:
+  utter_anything_else:
+  - text: Do you need help with anything else?
+  utter_ask_cuisine:
+  - buttons:
+    - payload: Chinese
+      title: Chinese
+    - payload: Italian
+      title: Italian
+    - payload: Mexican
+      title: Mexican
+    - payload: American
+      title: American
+    - payload: South Indian
+      title: South Indian
+    - payload: North Indian
+      title: North Indian
+    text: What kind of cuisine would you like? Please select from options below.
+  utter_ask_email_address:
+  - text: Please enter your email address
+  utter_ask_email_send:
+  - text: Would you like me to send you an email with details?
+  utter_ask_howcanhelp:
+  - text: How can I help you?
+  utter_ask_location:
+  - text: In which city you want to search the restaurant?
+  utter_ask_price:
+  - buttons:
+    - payload: low
+      title: Lesser than Rs 300
+    - payload: mid
+      title: Rs 300 to 700
+    - payload: high
+      title: More than 700
+    text: What is your average budget for two? Please select from options below.
+  utter_default:
+  - text: I cannot understand
+  utter_goodbye:
+  - text: Okay. Bon Appetit!
+  utter_greet:
+  - text: Hey there! How may i help you?
+  - text: Hi, How can I help you?
+  - text: Hey, How is it going? How may I help you today?
+  utter_sent_email:
+  - text: Sent. Bon Appetit!
+  - text: Sent.
+  utter_wrong_budget:
+  - text: Your price range is not valid, please chose any of the available price options.
+  utter_wrong_cuisine:
+  - text: We don't offer the requested cuisine. Please select from the available options.
+  utter_wrong_location:
+  - text: Either the city name is not valid or we dont provide service in this city,could
+      you please try with another city ?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 0
+slots:
+  cuisine:
+    type: text
+  email_address:
+    type: text
+  freetext:
+    type: text
+  location:
+    type: text
+  price:
+    type: text
+  search_results:
+    type: bool
